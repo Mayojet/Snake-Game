@@ -51,10 +51,10 @@ python3 -m pytest --cov=.
 ```
 
 # Developers
-- **Alex Guo**: Worked on basic snake game and welcome/end screens.  
-- **Yujie Miao**: Worked on basic snake game and timer feature. 
-- **David Li**: Worked on basic snake game, testing, portal feature, and bot benchmarking. 
-- **Wilson Sun**: Worked on basic snake game, testing, obstacle feature, and automation bot.  
+- **Alex Guo**
+- **Yujie Miao**
+- **David Li**
+- **Wilson Sun**  
 
 
 # Source Credit
